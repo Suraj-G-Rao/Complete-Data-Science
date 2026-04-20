@@ -1,4 +1,4 @@
-# Complete Data Science Journey 📊
+# Complete Data Science Journey 
 
 A comprehensive collection of data science projects and implementations following Krish Naik's Udemy course. This repository showcases my learning journey through various machine learning algorithms, deep learning concepts, and complete end-to-end data science projects.
 
